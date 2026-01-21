@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "savedAt": "2026-01-21T03:46:39.984Z",
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "🆕 Novo projeto iniciado!\n\nDescreva a aplicação que você quer criar."
+    },
+    {
+      "role": "user",
+      "content": "crie uma aplicação de controle de despesas de viagem onde no menu tem as opções adiantamento para solicitar adiantamento, depois outra opção de lançamento de despesa onde tem um local para anexar a imagem da despesa e por fim um extrato entre adiantamento e despesas para entender o saldo",
+      "hasImage": false
+    },
+    {
+      "role": "assistant",
+      "content": "✅ 6 arquivos gerados! Veja na árvore de arquivos.\n\nQuer que eu faça algum ajuste?"
+    }
+  ]
+}
